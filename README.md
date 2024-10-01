@@ -20,3 +20,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rishabhrawat05&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🏅 Badges
+[![An image of @rishabhrawat05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishabhrawat05)](https://holopin.io/@rishabhrawat05)
