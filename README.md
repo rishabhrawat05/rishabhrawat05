@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I am Rishabh Singh Rawat <br>🧑🏻‍💻 a Full Stack Java Developer <br>✨ my current tech stack is SpringBoot, React.js, My SQl<br>💡 currently learning python for AI&ML<br><br>
+👀 I am Rishabh Singh Rawat <br>🧑🏻‍💻 a Full Stack Java Developer <br>✨ my current tech stack is SpringBoot, React.js, My SQl<br>💡 currently learning about app development<br><br>
 
 
 ## 🌐 Socials:
