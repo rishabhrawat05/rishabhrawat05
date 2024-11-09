@@ -1,7 +1,7 @@
 # 💫 About Me:
 👀 I am Rishabh Singh Rawat <br>🧑🏻‍💻 a Full Stack Java Developer <br>✨ my current tech stack is SpringBoot, React.js, My SQl<br>💡 currently learning about app development<br><br>
 
-
+![](https://komarev.com/ghpvc/?username=rishabhrawat05)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-singh-rawat-408762289) 
 
