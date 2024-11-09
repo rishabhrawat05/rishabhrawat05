@@ -1,19 +1,15 @@
 # 💫 About Me:
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="border: none; padding-right: 20px;">
-      <p>
+
+<p >
         👀 I am Rishabh Singh Rawat <br>
         🧑🏻‍💻 A Full Stack Java Developer <br>
         ✨ My current tech stack is Spring Boot, React.js, and MySQL <br>
         💡 Currently learning about app development
-      </p>
-    </td>
-    <td style="border: none;">
-      <img src="https://imgs.search.brave.com/cQhZkpI4HXNdunqymEp3u3u1o_Cx7kdMu6vmAdFWcs4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL2cyamo5/VkFJQmx1SXJlVk5z/Yi8yMDB3LmdpZj9j/aWQ9NzkwYjc2MTE1/enM3a2VrcWZsa25k/azBlMmk2MTRoaHQw/OGZjdTJxZWg2YWF2/NXk5JmVwPXYxX2dp/ZnNfc2VhcmNoJnJp/ZD0yMDB3LmdpZiZj/dD1n.gif" width="200px" height="200px" alt="Coding GIF"/>
-    </td>
-  </tr>
-</table>
+</p>
+ 
+<img src="https://imgs.search.brave.com/cQhZkpI4HXNdunqymEp3u3u1o_Cx7kdMu6vmAdFWcs4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL2cyamo5/VkFJQmx1SXJlVk5z/Yi8yMDB3LmdpZj9j/aWQ9NzkwYjc2MTE1/enM3a2VrcWZsa25k/azBlMmk2MTRoaHQw/OGZjdTJxZWg2YWF2/NXk5JmVwPXYxX2dp/ZnNfc2VhcmNoJnJp/ZD0yMDB3LmdpZiZj/dD1n.gif" width="200px" height="200px" alt="Coding GIF"/>
+
+
 
 
 ![](https://komarev.com/ghpvc/?username=rishabhrawat05)
