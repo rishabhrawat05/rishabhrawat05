@@ -27,7 +27,7 @@
 </details>
 <details>
   <summary>React.js (From Coding Ninjas)</summary>
-  https://ninjasfiles.s3.amazonaws.com/certificate_f27d3ae245599e7c_e94dae1826e6775bc3cc648e5d78af1f.pdf
+  https://ninjasfiles.s3.amazonaws.com/certificate_254576bec3cbc715_26f493c619ab306e26d42ba4d8d12765.pdf
 </details>
 
 ### 🏅 Hactoberfest Badges
