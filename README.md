@@ -24,7 +24,7 @@
 ## 📃Certifications
 
 [![Spring Boot](https://img.shields.io/badge/SpringBoot-Certificate-%236DB33F)]( https://ninjasfiles.s3.amazonaws.com/certificate_f27d3ae245599e7c_e94dae1826e6775bc3cc648e5d78af1f.pdf)
-[![React Development](https://img.shields.io/badge/React_Development-Certificate-blue)]([https://link-to-your-certificate.com](https://ninjasfiles.s3.amazonaws.com/certificate_254576bec3cbc715_26f493c619ab306e26d42ba4d8d12765.pdf))
+[![React Development](https://img.shields.io/badge/React_Development-Certificate-blue)](https://ninjasfiles.s3.amazonaws.com/certificate_254576bec3cbc715_26f493c619ab306e26d42ba4d8d12765.pdf)
 
 ### 🏅 Hactoberfest Badges
 [![An image of @rishabhrawat05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishabhrawat05)](https://holopin.io/@rishabhrawat05)
