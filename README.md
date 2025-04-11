@@ -3,10 +3,11 @@
 
 <div align="center">
 
-[![Divider](https://img.shields.io/badge/★_★★★_★★★★★_About_Me_★★★★★_★★★_★-A3F7FF?style=for-the-badge)]()
-
+[![Divider](https://img.shields.io/badge/★_★★★_★★★★★_About_Me_★★★★★_★★★_★-white?style=for-the-badge)]()
 
 </div>
+
+
 
 
 <br>
@@ -34,6 +35,8 @@
 
 <br>
 
+![Pull Requests](https://img.shields.io/badge/Pull%20Requests-20+-red?style=for-the-badge&logo=git)
+![Commits](https://img.shields.io/badge/Commits-400+-purple?style=for-the-badge&logo=git)
 ![Visitor Count](https://komarev.com/ghpvc/?username=rishabhrawat05&color=blue&style=for-the-badge)
 
 <br>
@@ -46,9 +49,12 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedIn&logoColor=white&style=for-the-badge)](https://linkedin.com/in/rishabh-singh-rawat-408762289)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/rishabh-singh-rawat-408762289)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@@rishabhrawat.171105) 
-[![Hosted on Vercel](https://img.shields.io/badge/Portfolio-black?logo=black&style=for-the-badge)](https://rishabh-singh-rawat.vercel.app/)
+[![Hosted on Vercel](https://img.shields.io/badge/Portfolio-black?logo=firefox&style=for-the-badge)](https://rishabh-singh-rawat.vercel.app/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white&style=for-the-badge)](https://dev.to/rishabhrawat05)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=for-the-badge)](https://openmrs.slack.com/team/U080RN998TH)
+
 
 <br>
 
@@ -74,8 +80,8 @@
 
 <br>
 
-[![Spring Boot](https://img.shields.io/badge/SpringBoot-Certificate-%236DB33F?style=for-the-badge)]( https://ninjasfiles.s3.amazonaws.com/certificate_f27d3ae245599e7c_e94dae1826e6775bc3cc648e5d78af1f.pdf)
-[![React Development](https://img.shields.io/badge/React_Development-Certificate-blue?style=for-the-badge)](https://ninjasfiles.s3.amazonaws.com/certificate_254576bec3cbc715_26f493c619ab306e26d42ba4d8d12765.pdf)
+[![Spring Boot](https://img.shields.io/badge/SpringBoot-Certificate-%236DB33F?style=for-the-badge&logo=spring-boot)]( https://ninjasfiles.s3.amazonaws.com/certificate_f27d3ae245599e7c_e94dae1826e6775bc3cc648e5d78af1f.pdf)
+[![React Development](https://img.shields.io/badge/React_Development-Certificate-blue?style=for-the-badge&logo=react)](https://ninjasfiles.s3.amazonaws.com/certificate_254576bec3cbc715_26f493c619ab306e26d42ba4d8d12765.pdf)
 
 <br>
 
@@ -99,16 +105,18 @@
 
 <br>
 
-<div style='display:flex; align-items:center; gap: 10px;' align=center>
-  <a href="https://gssoc.girlscript.tech/leaderboard" style="text-decoration: none;">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="200px" height="200px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="200px" height="200px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="200px" height="200px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="200px" height="200px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="200px" height="200px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="200px" height="200px" />
+<p align="center">
+  <a href="https://gssoc.girlscript.tech/leaderboard">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="150px" />
   </a>
-</div>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="150px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="150px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="150px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="150px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="150px" />
+</p>
+
+
 
 <br>
 
@@ -137,7 +145,7 @@
 <br>
 
 
-![](https://github-profile-trophy.vercel.app/?username=rishabhrawat05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rishabhrawat05&theme=radical&no-frame=false&no-bg=true&margin-w=7&margin-h=7)
 
 <div align="center">
 
@@ -147,7 +155,11 @@
 
 <br>
 
+<div align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 <br>
 
@@ -159,7 +171,11 @@
 
 <br>
 
+<div align="center">
+
 ![](https://github-contributor-stats.vercel.app/api?username=rishabhrawat05&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
 
 <br>
 
@@ -176,6 +192,5 @@
 </a>
 
 <br>
-
 
 
