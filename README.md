@@ -51,7 +51,7 @@
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/rishabh-singh-rawat-408762289)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@@rishabhrawat.171105) 
-[![Hosted on Vercel](https://img.shields.io/badge/Portfolio-black?logo=firefox&style=for-the-badge)](https://rishabh-singh-rawat.vercel.app/)
+[![Hosted on Vercel](https://img.shields.io/badge/Portfolio-black?logo=firefox&style=for-the-badge)](https://www.rishabhrawat.dev/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white&style=for-the-badge)](https://dev.to/rishabhrawat05)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=for-the-badge)](https://openmrs.slack.com/team/U080RN998TH)
 
